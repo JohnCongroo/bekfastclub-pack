@@ -1,0 +1,12 @@
+name = "bekfastclub-pack"
+version = "0.69"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f01ea119e35f1d8d321468ef00861393b11ddc94976c380d0068a7984a170b01"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.249"

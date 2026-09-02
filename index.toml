@@ -1,0 +1,11 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "bd0dd7ceb00c37cfaa945dfba23b5b2406e12be20709df8d9f82ba12a5a3a2be"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+metafile = true
