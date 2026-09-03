@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "jars/voxy-neoforge-0.2.1.jar"
-hash = "0a46e941777344edd529b851bdf88a285c2092ef80cf67600bb975492c6cd18d"
-
-[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "bd0dd7ceb00c37cfaa945dfba23b5b2406e12be20709df8d9f82ba12a5a3a2be"
 metafile = true
@@ -23,3 +19,7 @@ metafile = true
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
+
+[[files]]
+file = "mods/voxy-neoforge-0.2.1.jar"
+hash = "0a46e941777344edd529b851bdf88a285c2092ef80cf67600bb975492c6cd18d"
