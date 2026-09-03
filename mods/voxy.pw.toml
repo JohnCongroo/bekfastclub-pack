@@ -1,8 +1,8 @@
 name = "voxy"
-filename = "voxy-neoforge-0.2.1.jar"
-side = "client"
+filename = "voxy.pw.toml"
+side = "both"
 
 [download]
-url = "https://github.com/JohnCongroo/bekfastclub-pack/raw/refs/heads/master/mods/voxy-neoforge-0.2.1.jar"
+url = "https://github.com/JohnCongroo/bekfastclub-pack/raw/refs/heads/master/mods/voxy.pw.toml"
 hash-format = "sha256"
-hash = "a5b03d0a4e2c23a8d7fb90e8b24c60cc5247ef98338ac1d09f04df1c22efd860"
+hash = "ac04bf3131a7c2750746a81735aef372867832698e6d1c7a2d8cf15d22a51f43"
