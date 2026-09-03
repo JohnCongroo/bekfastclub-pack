@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "datapacks/jjthunder-to-the-max.pw.toml"
+hash = "eccfc46915824bef76834b5b79e799e6180d2f14b8fb456e66bd51dea09ac695"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
