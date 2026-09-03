@@ -21,5 +21,6 @@ hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
-file = "mods/voxy-neoforge-0.2.1.jar"
-hash = "0a46e941777344edd529b851bdf88a285c2092ef80cf67600bb975492c6cd18d"
+file = "mods/voxy.pw.toml"
+hash = "c112e88a9b0849092aa45fae93706a6f5af1c699dc4bd701447d6095d1d86ab7"
+metafile = true

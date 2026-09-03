@@ -1,0 +1,8 @@
+name = "voxy"
+filename = "voxy-neoforge-0.2.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/JohnCongroo/bekfastclub-pack/blob/master/mods/voxy-neoforge-0.2.1.jar"
+hash-format = "sha256"
+hash = "a5b03d0a4e2c23a8d7fb90e8b24c60cc5247ef98338ac1d09f04df1c22efd860"
