@@ -23,8 +23,3 @@ metafile = true
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
-
-[[files]]
-file = "mods/voxy.pw.toml"
-hash = "404f18888ad96eadfd28206dff1f664511b72422b6c8f23c90ccc30806bd4659"
-metafile = true
