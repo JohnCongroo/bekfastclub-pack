@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "datapacks/cobblemon-additions.pw.toml"
+hash = "d94f943034bca0270c72a3e56a9ef4864d81e2300c5e64418ee2b2619b7d979b"
+metafile = true
+
+[[files]]
 file = "datapacks/jjthunder-to-the-max.pw.toml"
 hash = "eccfc46915824bef76834b5b79e799e6180d2f14b8fb456e66bd51dea09ac695"
 metafile = true
@@ -688,6 +693,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "383d9891f716981f418f6e2a97a5eeeee43912975d90d9ab4ffbfe98a832e40e"
 metafile = true
 
 [[files]]
