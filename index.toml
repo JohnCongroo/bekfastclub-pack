@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "5de9db0e10c89eae874a1af537cb3738eee5e9ddaf1daa7ba96a8b3d571a2668"
+hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
 metafile = true
 
 [[files]]
@@ -782,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "d317ca83d26b56f8391be44da811fb443bac7f9b49f75e6a2cf48fa95ef22b28"
+hash = "33454564d216f62d011ac78fc0aa2a49977ac1161f10f4accb1d33a9934969df"
 metafile = true
 
 [[files]]
@@ -801,11 +801,6 @@ hash = "4c14cb8ce763edf4d963f8f4dcba72e48d0c84dc71410e6b45b749a10c486776"
 metafile = true
 
 [[files]]
-file = "mods/simply-more.pw.toml"
-hash = "fadbaf572d951f9670ffbc5c2157695afc3d40da11626dcbdc6ff105a3f62b20"
-metafile = true
-
-[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "e963d7f0df4c955e8a96cd9fe716257dd7d6d5ca20a29d52c16fba9ead943f5b"
 metafile = true
@@ -813,6 +808,11 @@ metafile = true
 [[files]]
 file = "mods/simply-tooltips.pw.toml"
 hash = "891ad3905947e6742a1bf10fbe098457f6cd487641eff26f6da322600fcf1dcd"
+metafile = true
+
+[[files]]
+file = "mods/simplymore.pw.toml"
+hash = "5ac1c21b88d19ae5b2f021a9aeaaf8f2761e5aac9f1f7a6b6fa59059b65a5e52"
 metafile = true
 
 [[files]]
