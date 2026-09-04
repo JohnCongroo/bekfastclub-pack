@@ -741,8 +741,8 @@ hash = "de970cbf7e3da423c3d2995368b9b9568d168bdf891c600ea7a8eb69b0986f0c"
 metafile = true
 
 [[files]]
-file = "mods/radical-gyms-cobblemon.pw.toml"
-hash = "1f2b2182565e431b5e0c0fa7c6991c2debd6ba89e6905ca6518acfb95df821a8"
+file = "mods/rad-gyms.pw.toml"
+hash = "73c77c58402fdc54607f78fa06238d18460dfa39ef6792e8b0738e7b108a8170"
 metafile = true
 
 [[files]]
