@@ -241,11 +241,6 @@ hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
-file = "mods/creating-space.pw.toml"
-hash = "4df637d0020a158b1ae1b61c4318d69bb7a3e1d5bfee65aa9a73fea40a87b1ff"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "b06e3a557d5fe63fa8bcb60335eba994288ce124625eabd29b76daf602ad3dcb"
 metafile = true
@@ -753,11 +748,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
-metafile = true
-
-[[files]]
-file = "mods/rogues-and-warriors.pw.toml"
-hash = "5f8574ca882f151698c62f7282c20054a8d4e4f9e44a08f4f043dce335dd2082"
 metafile = true
 
 [[files]]
