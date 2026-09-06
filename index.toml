@@ -191,6 +191,11 @@ hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -653,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/more-totems-of-undying.pw.toml"
 hash = "373d6653e920f1a591ffd8f3e80847d8bf4bef0c20725e3bdb0dcacfca9977aa"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "096a419c3be0fb56ea9ae7b9d0da0aabf62fbdebb91d62eafb9c7500f2cc7e6b"
 metafile = true
 
 [[files]]
