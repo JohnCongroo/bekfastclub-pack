@@ -1146,6 +1146,11 @@ hash = "6c3e383528781963424860b339d4895a04f46405c1c730bdd7bfbc0ecc7ab3f7"
 metafile = true
 
 [[files]]
+file = "shaderpacks/eclipseshaders.pw.toml"
+hash = "5dd5c2fd5584d40e116f2564ec853fb2e1543029c2d1741f6bc62f640241e98b"
+metafile = true
+
+[[files]]
 file = "shaderpacks/photon-shader.pw.toml"
 hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
 metafile = true
