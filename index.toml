@@ -446,6 +446,11 @@ hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
 
 [[files]]
+file = "mods/grassier-grass.pw.toml"
+hash = "43b824f4aa5834bbec2488986bbe3b637e20affc8e4d2c4ae52c516130aa44ee"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "f7448243d61c3e7c5941896816afb91dd069cef492a2d93ceba9f48e391cdf44"
 metafile = true
